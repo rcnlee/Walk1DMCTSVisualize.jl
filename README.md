@@ -1,1 +1,1 @@
-# Walk1DMCTSVis
+# Walk1DMCTSVisualize

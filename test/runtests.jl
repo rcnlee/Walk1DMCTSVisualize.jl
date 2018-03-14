@@ -1,4 +1,4 @@
-using Walk1DMCTSVis
+using Walk1DMCTSVisualize
 using Base.Test
 
 # write your own tests here
